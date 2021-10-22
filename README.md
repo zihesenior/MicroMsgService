@@ -4,7 +4,7 @@
 部署时根据需要改一下配置文件
 ```xml
 <config>
-  <server port="6666"></server>
+  <server port="1024"></server>
   <clients>
     <client id="imsuperman" username="user" password="123456"></client>
     <client id="screens" username="user" password="123456"></client>
