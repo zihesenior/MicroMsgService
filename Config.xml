@@ -1,5 +1,5 @@
 ﻿<config>
-  <server port="8222"></server>
+  <server port="6666"></server>
   <clients>
     <client id="httpserver" username="user" password="123456"></client>
     <client id="screens" username="user" password="123456"></client>
