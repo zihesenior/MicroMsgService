@@ -1,0 +1,9 @@
+﻿<config>
+  <server port="8222"></server>
+  <clients>
+    <client id="httpserver" username="user" password="123456"></client>
+    <client id="screens" username="user" password="123456"></client>
+    <client id="RaceCounter" username="u002" password="p002"></client>
+    <client id="ec86b3d" username="user" password="123456"></client>
+  </clients>
+</config>
